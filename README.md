@@ -27,3 +27,7 @@ https://www.rdocumentation.org/packages/tigris/versions/1.0
 https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v1#
 https://www.fema.gov/openfema-data-page/openfema-dataset-fima-nfip-redacted-policies--v1
 
+### Preliminary chart on intersecting the datasets
+
+![](./Preprocessing/Datasets_intersect.png)
+
