@@ -192,7 +192,7 @@ census_ratio <-
 #-------------------------------------------------------------------------------
 
 
-if (!(file.exists(paste0("C:/Users/veigel/Documents/GitHub/NFIP/Study_Georgia_California/maps/eligibility_year/",state_names[i],"/", community_sf_yes$elig_year[1], ".png")))) { source("C:/Users/veigel/Documents/GitHub/NFIP/Preprocessing/tmap_maps.R")}
+if (!(file.exists(paste0("C:/Users/veigel/Documents/GitHub/NFIP/Study_Georgia_California/maps/eligibility_year/",state_names[i],"/", community_sf_yes$elig_year[1], ".png")))) { source("C:/Users/veigel/Documents/GitHub/NFIP/Preprocessing/eligibility_development_maps.R")}
 
 
 
