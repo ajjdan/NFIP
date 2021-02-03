@@ -18,7 +18,7 @@ library(USAboundaries)
 #-------------------------------------------------------------------------------
 
 # Initiate census API
-census_api_key("b3cb1b4d20d2e3bc0e94f7afd8c32ec5248b6637")
+census_api_key(" ")
 
 # List of state names and abbreviations to iterate/select 
 usstates <- us_states()
