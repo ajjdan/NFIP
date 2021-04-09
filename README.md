@@ -29,5 +29,5 @@ https://www.fema.gov/openfema-data-page/openfema-dataset-fima-nfip-redacted-poli
 
 ### Preliminary chart on intersecting the datasets
 
-![](./Preprocessing/Datasets_intersect.png)
+![](./Preprocessing/Dataset_intersect.png)
 
